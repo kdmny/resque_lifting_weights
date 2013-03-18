@@ -1,6 +1,13 @@
 resque-lifting-weights
 ====================
-A gem that combines all the goodness resque has to offer.
+A gem that combines all the goodness resque has to offer including:
+
+  * [resque](https://github.com/defunkt/resque)
+  * [resque_mailer](https://github.com/zapnap/resque_mailer)
+  * [resque-scheduler](https://github.com/bvandenbos/resque-scheduler)
+  * [resque-retry](https://github.com/lantins/resque-retry)
+  * [resque-cleaner](https://github.com/ono/resque-cleaner)
+  * [resque-delay-with-mongoid](https://github.com/kdmny/resque-delay-with-mongoid)
 
 
 Installation Gemspec
