@@ -1,2 +1,3 @@
+require "resque_lifting_weights/engine"
 module ResqueLiftingWeights
 end
