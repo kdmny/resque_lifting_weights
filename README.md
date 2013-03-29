@@ -1,4 +1,4 @@
-resque-lifting-weights
+resque_lifting_weights
 ====================
 A gem that combines all the goodness resque has to offer including:
 
@@ -12,7 +12,7 @@ A gem that combines all the goodness resque has to offer including:
 
 Installation Gemspec
 ------------
-	gem 'resque-lifting-weights'
+	gem 'resque_lifting_weights'
 	
 
 Sample Use
@@ -20,7 +20,7 @@ Sample Use
 
 Submitting an Issue
 -------------------
-We use the [GitHub issue tracker](http://github.com/kdmny/resque-lifting-weights/issues) to track bugs and
+We use the [GitHub issue tracker](http://github.com/kdmny/resque_lifting_weights/issues) to track bugs and
 features. Before submitting a bug report or feature request, check to make sure it hasn't already
 been submitted. You can indicate support for an existing issuse by voting it up. When submitting a
 bug report, please include a [Gist](http://gist.github.com/) that includes a stack trace and any
@@ -44,4 +44,4 @@ Submitting a Pull Request
 Copyright
 ---------
 Copyright (c) 2013 K$.
-See [LICENSE](https://github.com/kdmny/resque-lifting-weights/blob/master/LICENSE.md) for details.
+See [LICENSE](https://github.com/kdmny/resque_lifting_weights/blob/master/LICENSE.md) for details.

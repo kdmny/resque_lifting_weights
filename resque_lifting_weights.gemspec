@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency('resque-scheduler')
   s.add_runtime_dependency('resque-retry')
   s.add_runtime_dependency('resque-cleaner')        
-  # s.add_runtime_dependency('resque-delay-with-mongoid')
+  s.add_runtime_dependency('resque-delay-with-mongoid')
   s.add_runtime_dependency('airbrake')  
 
   s.authors = ["K$"]
