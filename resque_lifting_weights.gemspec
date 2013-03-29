@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/kdmny/resque_lifting_weights'
   s.name = 'resque_lifting_weights'
   s.platform = Gem::Platform::RUBY
-  s.require_paths = ['lib']
+  s.require_paths = ['lib', 'config']
   s.required_rubygems_version = Gem::Requirement.new('>= 1.3.6') if s.respond_to? :required_rubygems_version=
   s.rubyforge_project = s.name
   s.summary = %q{A gem that combines all the goodness resque has to offer.}
