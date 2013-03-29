@@ -17,6 +17,13 @@ Installation Gemspec
 
 Sample Use
 ------------------
+All the stuff you're used to with Resque like:
+
+* Visit /resque to view queues
+* Create jobs that implement the perform method
+* Call .delay to process jobs in the background
+* Include include Resque::Mailer in mailers (or use BlackHoleMailer's AsyncMailer class)
+* Schedule jobs to be run later using enqueue_in and enqueue_at
 
 Submitting an Issue
 -------------------
